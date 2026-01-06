@@ -59,11 +59,6 @@ Original file is located at
 
 ##!streamlit run app.py &>/content/logs.txt &
 
-!pip install streamlit
-
-!streamlit run app.py
-
-!cp /content/drive/MyDrive/svm_pipeline.pkl .
 
 
 
