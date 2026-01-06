@@ -1,6 +1,6 @@
-%%writefile requirements.txt
 streamlit
 scikit-learn
 pdfplumber
 python-docx
 nltk
+
